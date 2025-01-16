@@ -1,0 +1,6 @@
+@LocalVectorDB_HostAddress = http://localhost:5227
+
+GET {{LocalVectorDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
