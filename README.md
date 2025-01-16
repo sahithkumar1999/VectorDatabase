@@ -35,8 +35,8 @@ LocalVectorDB/
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-repo/local-vector-db.git
-cd local-vector-db
+git clone https://github.com/sahithkumar1999/VectorDatabase.git
+cd VectorDatabase/LocalVectorDB/LocalVectorDB/
 ```
 
 ### 2. **Install Dependencies**
